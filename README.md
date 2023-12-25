@@ -2,11 +2,11 @@
 
 This API functions as a backend system designed to perform various actions related to polling:
 
--Question Creation: Enables the creation of new questions.
--Option Addition: Allows the addition of options to specific questions.
--Voting on Options: Permits users to vote on available options.
--Deletion Capabilities: Supports the deletion of both questions and options.
--Comprehensive Question Viewing: Provides a view of questions alongside all associated options.
+- Question Creation: Enables the creation of new questions.
+- Option Addition: Allows the addition of options to specific questions.
+- Voting on Options: Permits users to vote on available options.
+- Deletion Capabilities: Supports the deletion of both questions and options.
+- Comprehensive Question Viewing: Provides a view of questions alongside all associated options.
 
 ## Polling system Features
 
